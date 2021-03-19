@@ -1,0 +1,17 @@
+{
+  "name": "galaxy-rp",
+  "version": "1.0.0",
+  "description": "vk bot",
+  "main": "index.js",
+  "dependencies": {
+    "@vk-io/hear": "^1.0.2",
+    "fs": "0.0.1-security",
+    "vk-io": "^4.0.0-rc.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "auto-run": "node index.js"
+  },
+  "author": "Qw3n",
+  "license": "ISC"
+}
